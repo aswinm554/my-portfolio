@@ -1,0 +1,92 @@
+
+* {
+  primary: #5a5757;
+}
+
+body {
+  color: #150a0a; 
+  font-family: "Poppins", sans-serif; */
+  margin: 0 !important;
+}
+.navbar {
+  background-color: #ffffff;
+}
+
+.navbar-brand {
+  font-size: 30px;
+}
+
+.nav-link {
+  font-size: 18px !important;
+  font-weight: 500;
+}
+
+.head-section {
+  background-image: linear-gradient(180deg,#ffffff);
+  
+}
+
+.navbar-brand,
+.text-primary {
+  color: #1665dc !important;
+}
+
+.btn-primary {
+  background-color: #0a58ca !important;
+  border: none;
+}
+
+.nav-link:hover {
+  color: #0a58ca;
+}
+
+p {
+  font-size: 18px;
+}
+.btn-primary:hover {
+  background-color: #257dfd !important;
+}
+
+.blue-bg {
+  background-color: #dee2e8;
+  color: #fff;
+}
+
+.ionicons {
+  color: #476fa6;
+  background-color: #f2f2f2;
+  padding: 10px;
+  height: 30px;
+  width: 30px;
+  margin-bottom: 12px;
+}
+
+.nav-tabs {
+  border: none;
+}
+
+.nav-tabs .active {
+  background-color: #0a58ca !important;
+  border: none;
+  color: #fff !important;
+}
+
+.main-footer {
+  background-color: #15325d !important;
+  color: #062879 !important;
+  width: 100%;
+}
+
+.my-journey .border {
+  border-color: #dee2e6 !important;
+}
+
+.my-journey h5 {
+  color: #171b20 !important;
+}
+.card-title, text-color {
+  color: #1b1919 !important;
+
+}
+
+
